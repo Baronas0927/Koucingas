@@ -1,2 +1,2 @@
 # koucingas
-Koučingo/menotrystės sistema
+Koučingo/mentorystės sistema
